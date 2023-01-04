@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.idea
+.DS_Store
+Gemfile.lock
+package-json.lock
+node_modules
+_drafts

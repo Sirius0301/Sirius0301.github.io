@@ -1,0 +1,26 @@
+name: Keep Learning
+title: Keep Learning | A blog based on Jekflix theme of Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: sirius.wf.wang@gmail.com
+# See: https://disqus.com/
+disqus_username: disqus_XhShC8Hlui
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: mdovoebq
