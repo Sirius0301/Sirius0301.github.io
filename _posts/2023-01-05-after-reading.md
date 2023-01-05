@@ -4,8 +4,8 @@ layout: post
 title: "after reading"
 subtitle: "人生海海"
 description: "《人生海海》讲述了一个人在时代中穿行缠斗的一生，离奇的故事里藏着让人叹息的人生况味,既有日常滋生的残酷，也有时间带来的仁慈。"
-image: https://img2.doubanio.com/view/subject/l/public/s32266692.jpg
-optimized_image: https://img2.doubanio.com/view/subject/l/public/s32266692.jpg
+image: https://tse3-mm.cn.bing.net/th/id/OIP-C.QZCOYWc6snNBivHrghc9_gHaFV?w=211&h=180&c=7&r=0&o=5&dpr=2&pid=1.7
+optimized_image: 
 category: book
 tags: 
     - book
