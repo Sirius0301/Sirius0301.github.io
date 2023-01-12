@@ -1,7 +1,7 @@
 ---
 date: 2023-01-05 07:01:43
 layout: post
-title: "after reading"
+title: "阅读笔记"
 subtitle: "人生海海"
 description: "《人生海海》讲述了一个人在时代中穿行缠斗的一生，离奇的故事里藏着让人叹息的人生况味,既有日常滋生的残酷，也有时间带来的仁慈。"
 image: https://tse3-mm.cn.bing.net/th/id/OIP-C.QZCOYWc6snNBivHrghc9_gHaFV?w=211&h=180&c=7&r=0&o=5&dpr=2&pid=1.7
