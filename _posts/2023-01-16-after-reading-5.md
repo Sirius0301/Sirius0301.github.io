@@ -8,9 +8,7 @@ description: "清崎有两个爸爸:“穷爸爸”是他的亲生父亲，一�
 image: https://m.media-amazon.com/images/I/51TLN61PHjL._SX357_BO1,204,203,200_.jpg
 optimized_image:
 category: book
-tags:
-    - book
-    - finance
+tags: finance
 author: "罗伯特.清崎"
 paginate: false
 ---

@@ -9,9 +9,7 @@ description: "《失控》成书于1994年，作者是《连线》杂志的创�
 image: https://images-cn.ssl-images-amazon.cn/images/I/519e8taTgIL.jpg
 optimized_image:
 category: book
-tags:
-    - book
-    - novel
+tags: novel
 author: "凯文.凯利"
 paginate: false
 ---

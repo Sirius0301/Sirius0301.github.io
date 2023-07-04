@@ -4,12 +4,10 @@ layout: post
 title: "阅读笔记"
 subtitle: "人生海海"
 description: "《人生海海》讲述了一个人在时代中穿行缠斗的一生，离奇的故事里藏着让人叹息的人生况味,既有日常滋生的残酷，也有时间带来的仁慈。"
-image: https://tse3-mm.cn.bing.net/th/id/OIP-C.QZCOYWc6snNBivHrghc9_gHaFV?w=211&h=180&c=7&r=0&o=5&dpr=2&pid=1.7
+image: http://www.xinhuanet.com/book/20210803/74d49516b85e4ab48004385c31e4188d/2021080374d49516b85e4ab48004385c31e4188d_3-4.jpg
 optimized_image: 
 category: book
-tags: 
-    - book
-    - novel
+tags: novel
 author: "麦家"
 paginate: false
 ---

@@ -7,9 +7,7 @@ description: "苏联科学家柳比歇夫坚持56年做时间统计法。书中�
 image: https://images-cn.ssl-images-amazon.cn/images/I/81HcVw4jPjL.jpg
 optimized_image:
 category: book
-tags:
-    - book
-    - time
+tags: time
 author: ""
 paginate: false
 ---

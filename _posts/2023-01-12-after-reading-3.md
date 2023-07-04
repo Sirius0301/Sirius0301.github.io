@@ -7,9 +7,7 @@ description: "书中根据大量实例，深入剖析每个人心中的自卑情
 image: https://m.media-amazon.com/images/I/41Ld7HA38HL._SX398_BO1,204,203,200_.jpg
 optimized_image:
 category: book
-tags:
-    - book
-    - novel
+tags: psychology
 author: "[奥]阿尔弗雷德·阿德勒"
 paginate: false
 ---

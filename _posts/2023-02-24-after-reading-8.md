@@ -7,9 +7,7 @@ description: "小说的前半部写的是过去：孤独无助的吴摩西失去
 image: https://m.media-amazon.com/images/I/41AApVZrdjL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg
 optimized_image:
 category: book
-tags:
-    - book
-    - novel
+tags: novel
 author: "刘震云"
 paginate: false
 ---

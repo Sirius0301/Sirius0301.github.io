@@ -7,9 +7,7 @@ description: "九个焦虑的人，一场人质劫持，能解救他们的不是
 image: https://images-cn.ssl-images-amazon.cn/images/S/aplus-media/sota/98dd2293-e52d-4058-adfe-4cf08a130a53.__CR0,0,970,600_PT0_SX970_V1___.jpg
 optimized_image: 
 category: book
-tags:
-    - book
-    - novel
+tags: novel
 author: "[瑞典]弗雷德里克•巴克曼"
 paginate: false
 ---

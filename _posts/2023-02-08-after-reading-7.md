@@ -7,9 +7,7 @@ description: "英国经典心理咨询入门书，曾列英国亚马逊心理咨
 image: https://images-cn.ssl-images-amazon.cn/images/I/41b0tPyMyAL.jpg
 optimized_image:
 category: book
-tags:
-    - book
-    - psychology
+tags: psychology
 author: "[英]罗伯特·戴博德 Robert de Board"
 paginate: false
 ---
