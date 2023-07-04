@@ -1,8 +1,8 @@
 ---
 date: 2023-02-08 08:13:01
 layout: post
-title: "阅读笔记"
-subtitle: "蛤蟆先生去看心里医生"
+title: "蛤蟆先生去看心里医生"
+subtitle: "帮你走出抑郁"
 description: "英国经典心理咨询入门书，曾列英国亚马逊心理咨询图书榜第1名。如果你不知道该不该去看心理医生，请先看看这本书"
 image: https://images-cn.ssl-images-amazon.cn/images/I/41b0tPyMyAL.jpg
 optimized_image:

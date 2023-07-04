@@ -1,8 +1,8 @@
 ---
 date: 2023-01-17 05:34:31
 layout: post
-title: "阅读笔记"
-subtitle: "奇特的一生"
+title: "奇特的一生"
+subtitle: "坚持记录时间的奇迹"
 description: "苏联科学家柳比歇夫坚持56年做时间统计法。书中对时间统计法有具体的介绍，方法很简单，每天都统计自己主要的时间花销，并且每天对自己认为重要的项目有效利用时间进行统计，每月进行月统计，到年底进行年统计，分析自己计划的时间和最终使用的时间的差别。方法很简单，也不用花太多时间，关键是要坚持下去，这样才能了解自己的能力范围，不断提高自己！"
 image: https://images-cn.ssl-images-amazon.cn/images/I/81HcVw4jPjL.jpg
 optimized_image:

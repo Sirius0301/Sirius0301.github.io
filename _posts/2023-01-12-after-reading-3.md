@@ -1,8 +1,8 @@
 ---
 date: 2023-01-12 04:24:18
 layout: post
-title: "阅读笔记"
-subtitle: "自卑与超越"
+title: "自卑与超越"
+subtitle: "樊登读书精讲的超级棒"
 description: "书中根据大量实例，深入剖析每个人心中的自卑情结，从教育、家庭、社交、伦理、婚姻等多个领域阐明人生道路的方向和人生意义的真谛，帮助人们打破自卑枷锁，理解生活，超出自我，实现人与人、人与社会和谐发展。"
 image: https://m.media-amazon.com/images/I/41Ld7HA38HL._SX398_BO1,204,203,200_.jpg
 optimized_image:

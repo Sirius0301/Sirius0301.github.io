@@ -1,8 +1,8 @@
 ---
 date: 2023-01-09 01:09:52
 layout: post
-title: "阅读笔记"
-subtitle: "焦虑的人"
+title: "焦虑的人"
+subtitle: "拍成电影想必很精彩"
 description: "九个焦虑的人，一场人质劫持，能解救他们的不是警察，而是彼此。《焦虑的人》以巴克曼对社会的敏锐观察和对人性的透彻理解，构建了一个巧妙的故事。爱、理解、宽恕和希望，这些东西即使在非常焦虑的时候，也能拯救我们。"
 image: https://images-cn.ssl-images-amazon.cn/images/S/aplus-media/sota/98dd2293-e52d-4058-adfe-4cf08a130a53.__CR0,0,970,600_PT0_SX970_V1___.jpg
 optimized_image: 
